@@ -3,6 +3,9 @@
   <h3 align="center">Nasci em Curitiba e vim para Campo Largo com apenas 3 anos de idade.x</h3>
 </div>
 
+<img src="https://raw.githubusercontent.com/matheusviniciuskaminski-afk/Matheus-Kaminski/refs/heads/main/octocat-1779805554180.png" width="450" alt="GIF" style="border-radius: 0px;"/>
+
+
 ## 🙋‍♂️ Sobre Mim
 
 - 🔭 Atualmente estudando no Colegio Estadual Sagrado Familia
